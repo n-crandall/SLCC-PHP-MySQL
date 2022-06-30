@@ -18,13 +18,13 @@
 	$chips = 3;
 	$cookies = 7;
 
-    #calculation
+        #calculation
 	$snacks = $chips + $cookies;
 	echo "<h3>You have $chips chips + $cookies cookies = $snacks snacks</h3>";
 
 	#new calculation
 	$snacks = $chips * $cookies;
-    echo "<h3>You have $chips chips * $cookies cookies = $snacks snacks</h3>";
+        echo "<h3>You have $chips chips * $cookies cookies = $snacks snacks</h3>";
 
 	?>
 </body>
